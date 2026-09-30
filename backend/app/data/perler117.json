@@ -1,0 +1,1297 @@
+{
+  "brand": "Perler",
+  "count": 117,
+  "source": "reference/Perler-Color-Chart.pdf",
+  "source_sha256": "55fc6e9f9780ff8210b60d698c37ef5169eb4ea53883ade3823dce2953ec7c07",
+  "method": "Original PDF vector fill RGB; names and codes from PDF text",
+  "notice": "Screen reference only; special-effect beads cannot be represented by flat RGB.",
+  "colors": [
+    {
+      "code": "P01",
+      "name": "White",
+      "rgb": [
+        241,
+        241,
+        241
+      ],
+      "hex": "#F1F1F1",
+      "source_page": 1
+    },
+    {
+      "code": "P02",
+      "name": "Cream",
+      "rgb": [
+        224,
+        222,
+        169
+      ],
+      "hex": "#E0DEA9",
+      "source_page": 1
+    },
+    {
+      "code": "P03",
+      "name": "Yellow",
+      "rgb": [
+        236,
+        216,
+        0
+      ],
+      "hex": "#ECD800",
+      "source_page": 1
+    },
+    {
+      "code": "P04",
+      "name": "Orange",
+      "rgb": [
+        237,
+        97,
+        32
+      ],
+      "hex": "#ED6120",
+      "source_page": 1
+    },
+    {
+      "code": "P05",
+      "name": "Red",
+      "rgb": [
+        240,
+        24,
+        32
+      ],
+      "hex": "#F01820",
+      "source_page": 1
+    },
+    {
+      "code": "P06",
+      "name": "Bubblegum",
+      "rgb": [
+        221,
+        102,
+        155
+      ],
+      "hex": "#DD669B",
+      "source_page": 1
+    },
+    {
+      "code": "P07",
+      "name": "Purple",
+      "rgb": [
+        96,
+        64,
+        137
+      ],
+      "hex": "#604089",
+      "source_page": 1
+    },
+    {
+      "code": "P08",
+      "name": "Dark Blue",
+      "rgb": [
+        43,
+        63,
+        135
+      ],
+      "hex": "#2B3F87",
+      "source_page": 1
+    },
+    {
+      "code": "P09",
+      "name": "Light Blue",
+      "rgb": [
+        51,
+        112,
+        192
+      ],
+      "hex": "#3370C0",
+      "source_page": 1
+    },
+    {
+      "code": "P10",
+      "name": "Dark Green",
+      "rgb": [
+        28,
+        117,
+        62
+      ],
+      "hex": "#1C753E",
+      "source_page": 1
+    },
+    {
+      "code": "P11",
+      "name": "Light Green",
+      "rgb": [
+        86,
+        186,
+        159
+      ],
+      "hex": "#56BA9F",
+      "source_page": 1
+    },
+    {
+      "code": "P12",
+      "name": "Brown",
+      "rgb": [
+        81,
+        57,
+        49
+      ],
+      "hex": "#513931",
+      "source_page": 1
+    },
+    {
+      "code": "P17",
+      "name": "Grey",
+      "rgb": [
+        138,
+        141,
+        145
+      ],
+      "hex": "#8A8D91",
+      "source_page": 1
+    },
+    {
+      "code": "P18",
+      "name": "Black",
+      "rgb": [
+        46,
+        47,
+        50
+      ],
+      "hex": "#2E2F32",
+      "source_page": 1
+    },
+    {
+      "code": "P20",
+      "name": "Rust",
+      "rgb": [
+        140,
+        55,
+        44
+      ],
+      "hex": "#8C372C",
+      "source_page": 1
+    },
+    {
+      "code": "P21",
+      "name": "Light Brown",
+      "rgb": [
+        129,
+        93,
+        52
+      ],
+      "hex": "#815D34",
+      "source_page": 1
+    },
+    {
+      "code": "P33",
+      "name": "Peach",
+      "rgb": [
+        238,
+        186,
+        178
+      ],
+      "hex": "#EEBAB2",
+      "source_page": 1
+    },
+    {
+      "code": "P35",
+      "name": "Tan",
+      "rgb": [
+        188,
+        147,
+        113
+      ],
+      "hex": "#BC9371",
+      "source_page": 1
+    },
+    {
+      "code": "P38",
+      "name": "Magenta",
+      "rgb": [
+        242,
+        42,
+        123
+      ],
+      "hex": "#F22A7B",
+      "source_page": 1
+    },
+    {
+      "code": "P47",
+      "name": "Neon Yellow",
+      "rgb": [
+        220,
+        224,
+        2
+      ],
+      "hex": "#DCE002",
+      "source_page": 1
+    },
+    {
+      "code": "P48",
+      "name": "Neon Orange",
+      "rgb": [
+        255,
+        119,
+        0
+      ],
+      "hex": "#FF7700",
+      "source_page": 1
+    },
+    {
+      "code": "P49",
+      "name": "Neon Green",
+      "rgb": [
+        1,
+        158,
+        67
+      ],
+      "hex": "#019E43",
+      "source_page": 1
+    },
+    {
+      "code": "P50",
+      "name": "Neon Pink",
+      "rgb": [
+        255,
+        57,
+        145
+      ],
+      "hex": "#FF3991",
+      "source_page": 1
+    },
+    {
+      "code": "P52",
+      "name": "Pastel Blue",
+      "rgb": [
+        83,
+        144,
+        209
+      ],
+      "hex": "#5390D1",
+      "source_page": 1
+    },
+    {
+      "code": "P53",
+      "name": "Pastel Green",
+      "rgb": [
+        118,
+        200,
+        130
+      ],
+      "hex": "#76C882",
+      "source_page": 1
+    },
+    {
+      "code": "P54",
+      "name": "Pastel Lavender",
+      "rgb": [
+        138,
+        114,
+        193
+      ],
+      "hex": "#8A72C1",
+      "source_page": 1
+    },
+    {
+      "code": "P56",
+      "name": "Pastel Yellow",
+      "rgb": [
+        254,
+        248,
+        117
+      ],
+      "hex": "#FEF875",
+      "source_page": 1
+    },
+    {
+      "code": "P57",
+      "name": "Cheddar",
+      "rgb": [
+        241,
+        170,
+        12
+      ],
+      "hex": "#F1AA0C",
+      "source_page": 1
+    },
+    {
+      "code": "P58",
+      "name": "Toothpaste",
+      "rgb": [
+        147,
+        200,
+        212
+      ],
+      "hex": "#93C8D4",
+      "source_page": 1
+    },
+    {
+      "code": "P59",
+      "name": "Hot Coral",
+      "rgb": [
+        255,
+        56,
+        81
+      ],
+      "hex": "#FF3851",
+      "source_page": 1
+    },
+    {
+      "code": "P60",
+      "name": "Plum",
+      "rgb": [
+        162,
+        75,
+        156
+      ],
+      "hex": "#A24B9C",
+      "source_page": 1
+    },
+    {
+      "code": "P61",
+      "name": "Kiwi Lime",
+      "rgb": [
+        108,
+        190,
+        19
+      ],
+      "hex": "#6CBE13",
+      "source_page": 1
+    },
+    {
+      "code": "P62",
+      "name": "Turquoise",
+      "rgb": [
+        43,
+        137,
+        198
+      ],
+      "hex": "#2B89C6",
+      "source_page": 1
+    },
+    {
+      "code": "P63",
+      "name": "Blush",
+      "rgb": [
+        255,
+        130,
+        133
+      ],
+      "hex": "#FF8285",
+      "source_page": 1
+    },
+    {
+      "code": "P70",
+      "name": "Periwinkle Blue",
+      "rgb": [
+        100,
+        124,
+        190
+      ],
+      "hex": "#647CBE",
+      "source_page": 1
+    },
+    {
+      "code": "P75",
+      "name": "Glow Green",
+      "rgb": [
+        190,
+        198,
+        150
+      ],
+      "hex": "#BEC696",
+      "source_page": 1
+    },
+    {
+      "code": "P79",
+      "name": "Light Pink",
+      "rgb": [
+        246,
+        179,
+        221
+      ],
+      "hex": "#F6B3DD",
+      "source_page": 1
+    },
+    {
+      "code": "P80",
+      "name": "Bright Green",
+      "rgb": [
+        79,
+        173,
+        66
+      ],
+      "hex": "#4FAD42",
+      "source_page": 1
+    },
+    {
+      "code": "P81",
+      "name": "Light Gray",
+      "rgb": [
+        238,
+        227,
+        207
+      ],
+      "hex": "#EEE3CF",
+      "source_page": 1
+    },
+    {
+      "code": "P82",
+      "name": "Light Lavender",
+      "rgb": [
+        173,
+        152,
+        212
+      ],
+      "hex": "#AD98D4",
+      "source_page": 1
+    },
+    {
+      "code": "P83",
+      "name": "Pink",
+      "rgb": [
+        228,
+        72,
+        146
+      ],
+      "hex": "#E44892",
+      "source_page": 1
+    },
+    {
+      "code": "P85",
+      "name": "Gold",
+      "rgb": [
+        187,
+        118,
+        52
+      ],
+      "hex": "#BB7634",
+      "source_page": 1
+    },
+    {
+      "code": "P88",
+      "name": "Raspberry",
+      "rgb": [
+        165,
+        48,
+        97
+      ],
+      "hex": "#A53061",
+      "source_page": 1
+    },
+    {
+      "code": "P89",
+      "name": "Neon Blue",
+      "rgb": [
+        64,
+        106,
+        225
+      ],
+      "hex": "#406AE1",
+      "source_page": 1
+    },
+    {
+      "code": "P90",
+      "name": "Butterscotch",
+      "rgb": [
+        212,
+        132,
+        55
+      ],
+      "hex": "#D48437",
+      "source_page": 1
+    },
+    {
+      "code": "P91",
+      "name": "Parrot Green",
+      "rgb": [
+        6,
+        124,
+        129
+      ],
+      "hex": "#067C81",
+      "source_page": 1
+    },
+    {
+      "code": "P92",
+      "name": "Dark Grey",
+      "rgb": [
+        77,
+        81,
+        86
+      ],
+      "hex": "#4D5156",
+      "source_page": 1
+    },
+    {
+      "code": "P93",
+      "name": "Blueberry Cream",
+      "rgb": [
+        130,
+        151,
+        217
+      ],
+      "hex": "#8297D9",
+      "source_page": 1
+    },
+    {
+      "code": "P96",
+      "name": "Cranapple",
+      "rgb": [
+        128,
+        25,
+        34
+      ],
+      "hex": "#801922",
+      "source_page": 1
+    },
+    {
+      "code": "P97",
+      "name": "Prickly Pear",
+      "rgb": [
+        189,
+        218,
+        1
+      ],
+      "hex": "#BDDA01",
+      "source_page": 1
+    },
+    {
+      "code": "P98",
+      "name": "Sand",
+      "rgb": [
+        228,
+        182,
+        144
+      ],
+      "hex": "#E4B690",
+      "source_page": 1
+    },
+    {
+      "code": "P100",
+      "name": "Pearl Coral",
+      "rgb": [
+        249,
+        126,
+        121
+      ],
+      "hex": "#F97E79",
+      "source_page": 1
+    },
+    {
+      "code": "P101",
+      "name": "Pearl Light Blue",
+      "rgb": [
+        122,
+        174,
+        162
+      ],
+      "hex": "#7AAEA2",
+      "source_page": 1
+    },
+    {
+      "code": "P102",
+      "name": "Pearl Green",
+      "rgb": [
+        132,
+        183,
+        145
+      ],
+      "hex": "#84B791",
+      "source_page": 1
+    },
+    {
+      "code": "P103",
+      "name": "Pearl Yellow",
+      "rgb": [
+        202,
+        192,
+        51
+      ],
+      "hex": "#CAC033",
+      "source_page": 1
+    },
+    {
+      "code": "P104",
+      "name": "Pearl Light Pink",
+      "rgb": [
+        215,
+        168,
+        162
+      ],
+      "hex": "#D7A8A2",
+      "source_page": 1
+    },
+    {
+      "code": "P105",
+      "name": "Silver",
+      "rgb": [
+        119,
+        123,
+        129
+      ],
+      "hex": "#777B81",
+      "source_page": 1
+    },
+    {
+      "code": "P179",
+      "name": "Evergreen",
+      "rgb": [
+        17,
+        73,
+        56
+      ],
+      "hex": "#114938",
+      "source_page": 1
+    },
+    {
+      "code": "P181",
+      "name": "Light Grey",
+      "rgb": [
+        179,
+        186,
+        184
+      ],
+      "hex": "#B3BAB8",
+      "source_page": 1
+    },
+    {
+      "code": "P182",
+      "name": "Lavender",
+      "rgb": [
+        175,
+        159,
+        206
+      ],
+      "hex": "#AF9FCE",
+      "source_page": 1
+    },
+    {
+      "code": "P199",
+      "name": "Shamrock",
+      "rgb": [
+        0,
+        143,
+        83
+      ],
+      "hex": "#008F53",
+      "source_page": 1
+    },
+    {
+      "code": "P200",
+      "name": "Cobalt",
+      "rgb": [
+        0,
+        101,
+        177
+      ],
+      "hex": "#0065B1",
+      "source_page": 1
+    },
+    {
+      "code": "P201",
+      "name": "Midnight",
+      "rgb": [
+        47,
+        60,
+        85
+      ],
+      "hex": "#2F3C55",
+      "source_page": 1
+    },
+    {
+      "code": "P202",
+      "name": "Robin's Egg",
+      "rgb": [
+        169,
+        205,
+        213
+      ],
+      "hex": "#A9CDD5",
+      "source_page": 1
+    },
+    {
+      "code": "P203",
+      "name": "Flamingo",
+      "rgb": [
+        242,
+        175,
+        183
+      ],
+      "hex": "#F2AFB7",
+      "source_page": 1
+    },
+    {
+      "code": "P204",
+      "name": "Salmon",
+      "rgb": [
+        225,
+        116,
+        122
+      ],
+      "hex": "#E1747A",
+      "source_page": 1
+    },
+    {
+      "code": "P205",
+      "name": "Fawn",
+      "rgb": [
+        201,
+        163,
+        133
+      ],
+      "hex": "#C9A385",
+      "source_page": 1
+    },
+    {
+      "code": "P206",
+      "name": "Pewter",
+      "rgb": [
+        148,
+        161,
+        157
+      ],
+      "hex": "#94A19D",
+      "source_page": 1
+    },
+    {
+      "code": "P207",
+      "name": "Charcoal",
+      "rgb": [
+        79,
+        89,
+        90
+      ],
+      "hex": "#4F595A",
+      "source_page": 1
+    },
+    {
+      "code": "P208",
+      "name": "Toasted Marshmallow",
+      "rgb": [
+        222,
+        218,
+        206
+      ],
+      "hex": "#DEDACE",
+      "source_page": 1
+    },
+    {
+      "code": "P210",
+      "name": "Orchid",
+      "rgb": [
+        177,
+        98,
+        142
+      ],
+      "hex": "#B1628E",
+      "source_page": 1
+    },
+    {
+      "code": "P211",
+      "name": "Tomato",
+      "rgb": [
+        209,
+        67,
+        55
+      ],
+      "hex": "#D14337",
+      "source_page": 1
+    },
+    {
+      "code": "P212",
+      "name": "Spice",
+      "rgb": [
+        217,
+        89,
+        58
+      ],
+      "hex": "#D9593A",
+      "source_page": 1
+    },
+    {
+      "code": "P213",
+      "name": "Apricot",
+      "rgb": [
+        245,
+        161,
+        104
+      ],
+      "hex": "#F5A168",
+      "source_page": 1
+    },
+    {
+      "code": "P214",
+      "name": "Sherbet",
+      "rgb": [
+        216,
+        228,
+        124
+      ],
+      "hex": "#D8E47C",
+      "source_page": 1
+    },
+    {
+      "code": "P215",
+      "name": "Mist",
+      "rgb": [
+        147,
+        176,
+        189
+      ],
+      "hex": "#93B0BD",
+      "source_page": 1
+    },
+    {
+      "code": "P216",
+      "name": "Sky",
+      "rgb": [
+        74,
+        192,
+        216
+      ],
+      "hex": "#4AC0D8",
+      "source_page": 1
+    },
+    {
+      "code": "P217",
+      "name": "Lagoon",
+      "rgb": [
+        0,
+        164,
+        172
+      ],
+      "hex": "#00A4AC",
+      "source_page": 1
+    },
+    {
+      "code": "P218",
+      "name": "Teal",
+      "rgb": [
+        4,
+        127,
+        138
+      ],
+      "hex": "#047F8A",
+      "source_page": 1
+    },
+    {
+      "code": "P219",
+      "name": "Fern",
+      "rgb": [
+        127,
+        151,
+        26
+      ],
+      "hex": "#7F971A",
+      "source_page": 1
+    },
+    {
+      "code": "P220",
+      "name": "Olive",
+      "rgb": [
+        105,
+        110,
+        49
+      ],
+      "hex": "#696E31",
+      "source_page": 1
+    },
+    {
+      "code": "P239",
+      "name": "Mocha",
+      "rgb": [
+        200,
+        182,
+        147
+      ],
+      "hex": "#C8B693",
+      "source_page": 1
+    },
+    {
+      "code": "P240",
+      "name": "Mint",
+      "rgb": [
+        179,
+        238,
+        213
+      ],
+      "hex": "#B3EED5",
+      "source_page": 1
+    },
+    {
+      "code": "P241",
+      "name": "Sour Apple",
+      "rgb": [
+        163,
+        222,
+        111
+      ],
+      "hex": "#A3DE6F",
+      "source_page": 1
+    },
+    {
+      "code": "P242",
+      "name": "Cotton Candy",
+      "rgb": [
+        244,
+        121,
+        176
+      ],
+      "hex": "#F479B0",
+      "source_page": 1
+    },
+    {
+      "code": "P243",
+      "name": "Grape",
+      "rgb": [
+        80,
+        59,
+        156
+      ],
+      "hex": "#503B9C",
+      "source_page": 1
+    },
+    {
+      "code": "P244",
+      "name": "Rose",
+      "rgb": [
+        210,
+        93,
+        114
+      ],
+      "hex": "#D25D72",
+      "source_page": 1
+    },
+    {
+      "code": "P245",
+      "name": "Iris",
+      "rgb": [
+        78,
+        86,
+        163
+      ],
+      "hex": "#4E56A3",
+      "source_page": 1
+    },
+    {
+      "code": "P246",
+      "name": "Tangerine",
+      "rgb": [
+        253,
+        89,
+        24
+      ],
+      "hex": "#FD5918",
+      "source_page": 1
+    },
+    {
+      "code": "P247",
+      "name": "Forest",
+      "rgb": [
+        0,
+        93,
+        87
+      ],
+      "hex": "#005D57",
+      "source_page": 1
+    },
+    {
+      "code": "P248",
+      "name": "Eggplant",
+      "rgb": [
+        111,
+        50,
+        85
+      ],
+      "hex": "#6F3255",
+      "source_page": 1
+    },
+    {
+      "code": "P249",
+      "name": "Honey",
+      "rgb": [
+        218,
+        140,
+        44
+      ],
+      "hex": "#DA8C2C",
+      "source_page": 1
+    },
+    {
+      "code": "P250",
+      "name": "Gingerbread",
+      "rgb": [
+        126,
+        84,
+        70
+      ],
+      "hex": "#7E5446",
+      "source_page": 1
+    },
+    {
+      "code": "P251",
+      "name": "Thistle",
+      "rgb": [
+        140,
+        140,
+        167
+      ],
+      "hex": "#8C8CA7",
+      "source_page": 1
+    },
+    {
+      "code": "P252",
+      "name": "Denim",
+      "rgb": [
+        76,
+        99,
+        136
+      ],
+      "hex": "#4C6388",
+      "source_page": 1
+    },
+    {
+      "code": "P253",
+      "name": "Sage",
+      "rgb": [
+        154,
+        169,
+        142
+      ],
+      "hex": "#9AA98E",
+      "source_page": 1
+    },
+    {
+      "code": "P254",
+      "name": "Orange Cream",
+      "rgb": [
+        239,
+        183,
+        155
+      ],
+      "hex": "#EFB79B",
+      "source_page": 2
+    },
+    {
+      "code": "P255",
+      "name": "Fruit Punch",
+      "rgb": [
+        202,
+        59,
+        101
+      ],
+      "hex": "#CA3B65",
+      "source_page": 2
+    },
+    {
+      "code": "P256",
+      "name": "Fuchsia",
+      "rgb": [
+        203,
+        89,
+        185
+      ],
+      "hex": "#CB59B9",
+      "source_page": 2
+    },
+    {
+      "code": "P257",
+      "name": "Mulberry",
+      "rgb": [
+        113,
+        72,
+        117
+      ],
+      "hex": "#714875",
+      "source_page": 2
+    },
+    {
+      "code": "P258",
+      "name": "Slime",
+      "rgb": [
+        200,
+        200,
+        92
+      ],
+      "hex": "#C8C85C",
+      "source_page": 2
+    },
+    {
+      "code": "P259",
+      "name": "Stone",
+      "rgb": [
+        152,
+        140,
+        140
+      ],
+      "hex": "#988C8C",
+      "source_page": 2
+    },
+    {
+      "code": "P260",
+      "name": "Dark Spruce",
+      "rgb": [
+        20,
+        49,
+        59
+      ],
+      "hex": "#14313B",
+      "source_page": 2
+    },
+    {
+      "code": "P261",
+      "name": "Cocoa",
+      "rgb": [
+        57,
+        41,
+        40
+      ],
+      "hex": "#392928",
+      "source_page": 2
+    },
+    {
+      "code": "P262",
+      "name": "Slate Blue",
+      "rgb": [
+        94,
+        109,
+        123
+      ],
+      "hex": "#5E6D7B",
+      "source_page": 2
+    },
+    {
+      "code": "P263",
+      "name": "Celery",
+      "rgb": [
+        190,
+        212,
+        166
+      ],
+      "hex": "#BED4A6",
+      "source_page": 2
+    },
+    {
+      "code": "P265",
+      "name": "Twilight Plum",
+      "rgb": [
+        198,
+        133,
+        177
+      ],
+      "hex": "#C685B1",
+      "source_page": 2
+    },
+    {
+      "code": "P266",
+      "name": "Caribbean Sea",
+      "rgb": [
+        108,
+        200,
+        173
+      ],
+      "hex": "#6CC8AD",
+      "source_page": 2
+    },
+    {
+      "code": "P267",
+      "name": "Frosted Lilac",
+      "rgb": [
+        205,
+        183,
+        195
+      ],
+      "hex": "#CDB7C3",
+      "source_page": 2
+    },
+    {
+      "code": "P268",
+      "name": "Sunflower",
+      "rgb": [
+        222,
+        186,
+        11
+      ],
+      "hex": "#DEBA0B",
+      "source_page": 2
+    },
+    {
+      "code": "P269",
+      "name": "Lemon",
+      "rgb": [
+        246,
+        217,
+        1
+      ],
+      "hex": "#F6D901",
+      "source_page": 2
+    },
+    {
+      "code": "P272",
+      "name": "Coral",
+      "rgb": [
+        255,
+        154,
+        139
+      ],
+      "hex": "#FF9A8B",
+      "source_page": 2
+    },
+    {
+      "code": "P273",
+      "name": "Brick",
+      "rgb": [
+        252,
+        149,
+        116
+      ],
+      "hex": "#FC9574",
+      "source_page": 2
+    },
+    {
+      "code": "P274",
+      "name": "Rich Butter",
+      "rgb": [
+        246,
+        202,
+        105
+      ],
+      "hex": "#F6CA69",
+      "source_page": 2
+    },
+    {
+      "code": "P275",
+      "name": "Peacock",
+      "rgb": [
+        0,
+        144,
+        172
+      ],
+      "hex": "#0090AC",
+      "source_page": 2
+    },
+    {
+      "code": "P276",
+      "name": "Carnation Pink",
+      "rgb": [
+        248,
+        199,
+        201
+      ],
+      "hex": "#F8C7C9",
+      "source_page": 2
+    },
+    {
+      "code": "P961",
+      "name": "Cherry",
+      "rgb": [
+        157,
+        43,
+        58
+      ],
+      "hex": "#9D2B3A",
+      "source_page": 2
+    }
+  ]
+}
